@@ -17,7 +17,7 @@ A basic calculator application that performs simple arithmetic operations such a
 - Simple and intuitive user interface through the command line.
 
 ### How to Run
-1. Clone the repository: `git clone https://github.com/pallavi-dhole123/Java-Portfolio.git`
+1. Clone the repository: https://github.com/pallavi-dhole123/Portfolio/blob/main/calculator.java
 2. Navigate to the project directory: `cd Java-Portfolio/Project1-Calculator/src`
 3. Compile the Java file: `javac Calculator.java`
 4. Run the application: `java Calculator`
