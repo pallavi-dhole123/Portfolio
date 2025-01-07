@@ -55,7 +55,7 @@ A basic banking system simulation that allows users to create accounts, deposit 
 - View account balances.
 
 ### How to Run
-1. Clone the repository: `git clone https://github.com/pallavi-dhole123/Java-Portfolio.git`
+1. Clone the repository: https://github.com/pallavi-dhole123/Portfolio/blob/main/BankingSystem.java
 2. Navigate to the project directory: `cd Java-Portfolio/Project3-BankingSystem/src`
 3. Compile the Java file: `javac BankingSystem.java`
 4. Run the application: `java BankingSystem`
