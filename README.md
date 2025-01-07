@@ -36,7 +36,7 @@ A simple command-line Todo application that allows users to add, list, and manag
 - Simple text-based user interface.
 
 ### How to Run
-1. Clone the repository: `git clone https://github.com/pallavi-dhole123/Java-Portfolio.git`
+1. Clone the repository: https://github.com/pallavi-dhole123/Portfolio/blob/main/TodoApp.java
 2. Navigate to the project directory: `cd Java-Portfolio/Project2-TodoApp/src`
 3. Compile the Java file: `javac TodoApp.java`
 4. Run the application: `java TodoApp`
